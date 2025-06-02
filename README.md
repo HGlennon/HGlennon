@@ -2,7 +2,20 @@
 *𝙻𝚊𝚜𝚝 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2025-06-02`
 <!-- /AUTO-LAST-UPDATED -->
 
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+HGlennon;Welcome+to+my+GitHub+Profile!" />
+</p>
+
+---
+
+## ✨ About Me
+
+- 💼 Full-stack developer | Cloud enthusiast
+- 🌱 Currently learning: **Next.js**, **GCP**, and **Laravel 11**
+- ⚡ Fun fact: I prefer dark mode even in terminal logs
+- 🔭 Exploring open source, automation, and frontend optimization
+
+---
 
 ## 💻 Skillset
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
