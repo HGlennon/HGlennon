@@ -10,7 +10,7 @@
 
 ## ✨ About Me
 
-- 💼 Full-stack developer | Cloud enthusiast
+- 💼 Currently working on my own 
 - 🌱 Currently learning: **Next.js**, **GCP**, and **Laravel 11**
 - ⚡ Fun fact: I prefer dark mode even in terminal logs
 - 🔭 Exploring open source, automation, and frontend optimization
@@ -27,6 +27,7 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 
@@ -35,7 +36,7 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HGlennon&show_icons=true&hide_border=true&theme=github_dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HGlennon&layout=compact&hide_border=true&theme=github_dark" />
-  <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=HGlennon&hide_border=true&theme=github_dark" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HGlennon&hide_border=true&theme=github_dark" />
 </p>
 
 ---
