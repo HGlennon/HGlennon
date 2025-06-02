@@ -8,7 +8,7 @@
 *𝙻𝚊𝚜𝚝 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2025-06-02`
 <!-- /AUTO-LAST-UPDATED -->
 
-## Hey! I'm Harry, an aspiring Web Developer 👋🏼:
+## Hey! I'm Harry, an aspiring Web Developer 👋:
 
 - ⚙️ Currently working on my own [webpage](https://www.HGlennon.dev)
 - 🌱 At the moment, I am mostly learning: **React**, **Java**, and **Laravel** on the side.
