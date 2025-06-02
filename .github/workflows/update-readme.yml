@@ -14,21 +14,22 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Set up Git
+      - name: Set up Git config
         run: |
-          git config --global user.name 'github-actions'
-          git config --global user.email 'github-actions@github.com'
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
 
       - name: Update README date
         run: |
           TODAY=$(date +'%Y-%m-%d')
           sed -i "s/\`.*\`/*𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* \`${TODAY}\`/" README.md
 
-      - name: Commit and push if changed
+      - name: Commit and push changes
         env:
           TOKEN: ${{ secrets.PAT }}
         run: |
           git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}
+          git fetch origin
           if git diff --quiet; then
             echo "No changes to commit"
           else
