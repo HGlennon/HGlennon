@@ -1,5 +1,10 @@
-<!-- Code: *𝙻𝚊𝚜𝚝 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2025-06-02` -->
-*𝙻𝚊𝚜𝚝 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2025-06-02`
+<!-- AUTO-LAST-UPDATED -->
+*𝙻𝚊𝚜𝚝 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `{{LAST_UPDATED}}`
+<!-- /AUTO-LAST-UPDATED -->
+
+```markdown
+*𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `{{LAST_UPDATED}}`
+```
 
 ## Hi therEe 👋
 
