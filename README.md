@@ -1,10 +1,10 @@
-<!-- AUTO-LAST-UPDATED -->
-*𝙻𝚊𝚜𝚝 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2025-06-02`
-<!-- /AUTO-LAST-UPDATED -->
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+HGlennon;Welcome+to+my+GitHub+Profile!" />
 </p>
+
+<!-- AUTO-LAST-UPDATED -->
+*𝙻𝚊𝚜𝚝 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2025-06-02`
+<!-- /AUTO-LAST-UPDATED -->
 
 ---
 
