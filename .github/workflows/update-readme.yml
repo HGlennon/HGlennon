@@ -25,12 +25,15 @@ jobs:
           sed -i "s/{{LAST_UPDATED}}/${TODAY}/g" README.md
 
       - name: Commit and push if changed
+        env:
+          TOKEN: ${{ secrets.PAT }}
         run: |
           if git diff --quiet; then
             echo "No changes to commit"
           else
             git add README.md
             git commit -m "chore: update README last updated date"
-            git push
+            git push https://x-access-token:${TOKEN}@github.com/${{ github.repository }} HEAD:main
           fi
+
 
