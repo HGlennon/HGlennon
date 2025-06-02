@@ -24,6 +24,12 @@ jobs:
           TODAY=$(date +'%Y-%m-%d')
           sed -i "s/\`.*\`/*𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* \`${TODAY}\`/" README.md
 
+      - name: Debug Token
+        env:
+          TOKEN: ${{ secrets.PAT }}
+        run: |
+          echo "Token is ${#TOKEN} characters long"
+
       - name: Commit and push changes
         env:
           TOKEN: ${{ secrets.PAT }}
