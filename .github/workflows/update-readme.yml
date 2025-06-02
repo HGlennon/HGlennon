@@ -1,1 +1,36 @@
+name: Update README date
+
+on:
+  push:
+    branches:
+      - main  # or your default branch
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Git
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+
+      - name: Update README date
+        run: |
+          TODAY=$(date +'%Y-%m-%d')
+          sed -i "s/{{LAST_UPDATED}}/${TODAY}/g" README.md
+
+      - name: Commit and push if changed
+        run: |
+          if git diff --quiet; then
+            echo "No changes to commit"
+          else
+            git add README.md
+            git commit -m "chore: update README last updated date"
+            git push
+          fi
 
