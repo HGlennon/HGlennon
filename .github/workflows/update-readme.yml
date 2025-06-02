@@ -3,7 +3,7 @@ name: Update README date
 on:
   push:
     branches:
-      - main  # or your default branch
+      - main
   workflow_dispatch:
 
 jobs:
@@ -22,18 +22,17 @@ jobs:
       - name: Update README date
         run: |
           TODAY=$(date +'%Y-%m-%d')
-          sed -i "s/{{LAST_UPDATED}}/${TODAY}/g" README.md
+          sed -i "s/\`.*\`/*𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* \`${TODAY}\`/" README.md
 
       - name: Commit and push if changed
         env:
           TOKEN: ${{ secrets.PAT }}
         run: |
+          git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}
           if git diff --quiet; then
             echo "No changes to commit"
           else
             git add README.md
             git commit -m "chore: update README last updated date"
-            git push https://x-access-token:${TOKEN}@github.com/${{ github.repository }} HEAD:main
+            git push origin HEAD:main
           fi
-
-
