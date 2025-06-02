@@ -8,12 +8,11 @@
 *𝙻𝚊𝚜𝚝 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2025-06-02`
 <!-- /AUTO-LAST-UPDATED -->
 
-## ✨ About Me
+## Hey! I'm Harry, an aspiring Web Developer 👋🏼:
 
-- 💼 Currently working on my own [webpage](https://www.HGlennon.dev)
-- 🌱 Currently learning: **Next.js**, **GCP**, and **Laravel 11**
-- ⚡ Fun fact: I prefer dark mode even in terminal logs
-- 🔭 Exploring open source, automation, and frontend optimization
+- ⚙️ Currently working on my own [webpage](https://www.HGlennon.dev)
+- 🌱 At the moment, I am mostly learning: **React**, **Java**, and **Laravel** on the side.
+- 🎓 I'm a third-year Computer Science student at the University of Lincoln, and a newer programmer passionate about growing into a well-rounded developer.
 
 ---
 
@@ -28,7 +27,6 @@
 [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 
 ---
 
