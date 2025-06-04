@@ -9,7 +9,7 @@
 
 ## Hey! I'm Harry, an aspiring Web Developer 👋:
 
-- ⚙️ Currently working on my own [webpage](https://www.HGlennon.dev)
+- ⚙️ Currently working on my own [webpage](https://www.HGlennon.dev) (still in development)
 - 🌱 At the moment, I am mostly learning: **React**, **Java**, and **Laravel** on the side.
 - 🎓 I'm a third-year Computer Science student at the University of Lincoln, and passionate about growing into a well-rounded developer.
 
