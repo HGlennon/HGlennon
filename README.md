@@ -32,6 +32,7 @@
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](#)
 [![NVDA](https://img.shields.io/badge/NVDA-%23630093.svg?style=for-the-badge&logo=NVDA&logoColor=white)](#)
+[![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](#)
 
 ---
 
