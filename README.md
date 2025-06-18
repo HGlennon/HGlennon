@@ -4,12 +4,12 @@
 
 ---
 <!-- AUTO-LAST-UPDATED -->
-*𝙻𝚊𝚜𝚝 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2025-06-09`
+*𝙻𝚊𝚜𝚝 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2025-06-18`
 <!-- /AUTO-LAST-UPDATED -->
 
-## Hey! I'm Harry, an aspiring Web Developer 👋:
+## Hey! I'm Harry, a Frontend Web Developer 👋:
 
-- ⚙️ Currently working on my own [webpage](https://www.HGlennon.dev) (still in development)
+- ⚙️ Currently working on my own [webpage](https://www.HGlennon.dev)
 - 🌱 At the moment, I am mostly learning: **React**, **Java**, and **Laravel** on the side.
 - 🎓 I'm a third-year Computer Science student at the University of Lincoln, and passionate about growing into a well-rounded developer.
 
