@@ -46,6 +46,15 @@
 
 ---
 
+## 📊 Weekly Development Breakdown: 
+
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
+
+---
+
 ## 📫 Contact Me:
 
 - 💌 Email: [harrisongle@gmail.com]
