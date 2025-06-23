@@ -53,7 +53,7 @@
 ```rust
 From: 15 June 2025 - To: 22 June 2025
 
-Total Time: 12 hrs 59 mins
+Total Time: 13 hrs 13 mins
 
 JavaScript    3 hrs 33 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.95 %
 JSON          2 hrs 59 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.59 %
