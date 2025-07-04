@@ -51,16 +51,16 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 25 June 2025 - To: 02 July 2025
+From: 26 June 2025 - To: 03 July 2025
 
-Total Time: 4 hrs 29 mins
+Total Time: 5 hrs 24 mins
 
-TypeScript   3 hrs 54 mins   █████████████████████▓░░░   86.78 %
-CSS          28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
-TSConfig     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+TypeScript   4 hrs 46 mins   ██████████████████████░░░   88.35 %
+CSS          28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
+JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+TSConfig     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
