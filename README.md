@@ -3,14 +3,12 @@
 </p>
 
 ---
-<!-- AUTO-LAST-UPDATED -->
-*𝙻𝚊𝚜𝚝 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2025-07-07`
-<!-- /AUTO-LAST-UPDATED -->
+*𝙻𝚊𝚜𝚝 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2025-07-25`
 
 ## Hey! I'm Harry, a Frontend Web Developer 👋:
 
-- ⚙️ Currently working on my own [webpage](https://www.HGlennon.dev)
-- 🌱 At the moment, I am mostly learning: **React**, **Java**, and **Laravel** on the side.
+- ⚙️ Currently working on my own journal application. 
+- 🌱 At the moment, I am mostly learning: **Next.js**, **TypeScript**, and **Java** on the side.
 - 🎓 I'm a third-year Computer Science student at the University of Lincoln, and passionate about growing into a well-rounded developer.
 
 ---
