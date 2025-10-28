@@ -3,13 +3,13 @@
 </p>
 
 ---
-*𝙻𝚊𝚜𝚝 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2025-08-16`
+*𝙻𝚊𝚜𝚝 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2025-10-28`
 
 ## Hey! I'm Harry, a Frontend Web Developer 👋:
 
 - ⚙️ Currently working on my own to-do list website. 
 - 🌱 At the moment, I am mostly learning: **Next.js**, **TypeScript**, and **Tailwind CSS**. 
-- 🎓 I'm a third-year Computer Science student at the University of Lincoln, and passionate about growing into a well-rounded developer.
+- 🎓 I recently graduated in Computer Science at the University of Lincoln, and I am passionate about growing into a well-rounded developer.
 
 ---
 
